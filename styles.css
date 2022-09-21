@@ -1,0 +1,72 @@
+@media all and (min-width: 992px) {
+
+
+    }
+
+}
+
+@media all and (min-width: 768 and max-width: 991) {
+    #div {
+        
+        width: 80%;
+        height: 80%;
+    }
+
+}
+
+@media all and (max-width: 767) {
+    #div {
+        
+        width: 50%;
+        height: 50%;
+    }
+}
+h1 {
+    margin-top: auto;
+    font-size: 23px;
+    color: black;
+    position: center;
+}
+#M1 {
+    background-color: red;
+    box-sizing: border-box;
+    width: 100px;
+    margin-bottom: 10px;
+    border: 3px solid black;
+    
+}
+#M2 {
+    background-color: blue;
+    box-sizing: border-box;
+    width: 300px;
+    margin-bottom: 10px;
+    border: 3px solid black;
+}
+#M3 {background-color: burlywood;
+    box-sizing: border-box;
+    width: 300px;
+    margin-bottom: 10px;
+    
+
+}
+#I1 {
+    background-color: grey;
+    width: 300px;
+    height: 300px;
+    box-sizing: border-box;
+    border: 3px solid black;
+}
+#I2 {
+    background-color: grey;
+    width: 300px;
+    height: 300px;
+    box-sizing: border-box;
+    border: 3px solid black;
+}
+#I3 {
+    background-color: gray;
+    width: 300px;
+    height: 300px;
+    box-sizing: border-box;
+    border: 3px solid black;
+}
